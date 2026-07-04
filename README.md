@@ -1,86 +1,49 @@
-# Hi, I'm Salma Mohamed 👋
+<h1 align="center">Hi 👋, I'm Salma Mohamed</h1>
 
-Flutter Developer | Mobile Application Developer
+<h3 align="center">
+Computer Science Student | Software Engineer | Mobile Developer
+</h3>
 
-🎓 Computer Science Student at Faculty of Computers & Information, Menoufia University (Expected 2026)
-
-📱 Passionate about Mobile Application Development, Flutter, and Software Engineering.
-
----
-
-## About Me
-
-I am a Computer Science student with practical experience in Flutter, Firebase, REST APIs, and mobile application development.
-
-I have developed multiple Flutter applications ranging from productivity apps and API-based applications to real-time communication systems.
-
-Currently working on Dumble, a fitness platform graduation project that integrates modern technologies including real-time communication, notifications, localization, and AI-powered features.
+<p align="center">
+Passionate about building software solutions, learning new technologies,
+and creating impactful applications.
+</p>
 
 ---
 
-## Tech Stack
+### 👩‍💻 About Me
 
-### Mobile Development
-- Flutter
-- Dart
-- Kotlin
-- Java
-
-### Backend & Database
-- PHP
-- Laravel
-- MySQL
-- Oracle SQL
-
-### Tools & Platforms
-- Firebase
-- Git
-- GitHub
-- Postman
-- Android Studio
-- VS Code
+- 🎓 Computer Science Student at Menoufia University
+- 💻 Interested in Software Engineering
+- 📱 Interested in Mobile Application Development
+- 🌱 Currently learning and improving my development skills
+- 🚀 Passionate about building useful and scalable applications
 
 ---
 
-## Featured Projects
+### 🛠️ Technologies & Tools
 
-### 🏋️ Dumble – Unified Fitness Platform
-Fitness platform connecting participants, trainers, and gyms through:
-- Real-time Chat
-- Push Notifications
-- AI Fitness Coach
-- Google Maps
-- QR Check-in
-- Arabic & English Localization
-
-### ✅ Habit Tracking App
-Cross-platform application for tracking daily habits, streaks, and progress.
-
-### 📰 News App
-Flutter application using REST APIs to display real-time news content.
-
-### 🎁 Offers App with Support Chat
-Offer management application with authentication, search, and support chat.
-
-### 🏀 Basketball Score Tracker
-Multi-screen Flutter application implementing navigation and state management.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,cpp,php,laravel,mysql,firebase,git,github,postman,vscode,androidstudio,html,css,js" />
+</p>
 
 ---
 
-## Certifications
+### 📊 GitHub Stats
 
-- Digital Egypt Pioneers Initiative (DEPI)
-- Business English Track (MCIT)
-- Lingua Stochos English Language Course
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=salmaabumostafa&show_icons=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmaabumostafa&layout=compact"/>
+
+</p>
 
 ---
 
-## Connect With Me
+### 📫 Connect With Me
 
-📧 Email: salmaabumostafa499@gmail.com
-
-💼 LinkedIn:
-linkedin.com/in/salma-abumostafa
-
-🐙 GitHub:
-github.com/salmaabumostafa
+- 📧 salmaabumostafa499@gmail.com
+- 💼 LinkedIn: linkedin.com/in/salma-abumostafa
