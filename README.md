@@ -29,8 +29,3 @@ Junior Software Engineer & Mobile App Developer specializing in **Flutter**, cur
 
 ![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
 
----
-
-### 📌 Pinned Repos
-
-Pinned above are my strongest, most current work — I keep this list updated as I ship new projects, so no need to edit this README each time.
