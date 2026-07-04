@@ -27,5 +27,5 @@ Junior Software Engineer & Mobile App Developer specializing in **Flutter**, cur
 
 ### 📊 GitHub Stats
 
-![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Salma's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmaabumostafa&show_icons=true&theme=default)
 
