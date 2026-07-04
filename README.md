@@ -41,7 +41,6 @@ Building cross-platform mobile apps with Flutter, Firebase & clean architecture 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
@@ -54,9 +53,9 @@ Building cross-platform mobile apps with Flutter, Firebase & clean architecture 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=salmaabumostafa&show_icons=true&count_private=true&theme=default" alt="salmaabumostafa's GitHub stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salmaabumostafa&theme=github-compact" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salmaabumostafa" alt="salmaabumostafa's streak stats" />
+<img src="https://streak-stats.demolab.com?user=salmaabumostafa&theme=tokyonight&hide_border=true" />
 </p>
